@@ -44,7 +44,7 @@ Cells can also have a type of Python code.  If we are writing in a cell that is 
 
 
 ```python
-This is a python cell without valid Python so we wil see an error
+This is a python cell without valid Python so we will see an error
 ```
 
 So a cell must either be of type Python, in which case all of the contents must be valid Python, or a cell must be of type markdown.  It cannot be both.  We can quickly change a cell from markdown to code with some keyboard shortcuts.
